@@ -1,0 +1,86 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+#conteiner1{
+  margin: auto;
+  width:1366px;
+  height: 98px;
+  background-color: purple;
+}
+#conteiner2{
+  width: 1366px;
+  height: 536px;
+  background-color: blue;
+}
+#conteiner3{
+  width: 1366px;
+  height: 667px;
+  background-color: yellow;
+  position: absolute;
+}
+.img1{
+  float: left;
+  margin-top: 230px;
+  margin-left: 175px;
+  margin-bottom: 200px;
+}
+.img2{
+  float: left;
+  margin-top: 230px;
+  margin-left: 200px;
+  margin-bottom: 200px;
+}
+.img3{
+  float: left;
+  margin-top: 230px;
+  margin-left: 200px;
+  margin-bottom: 200px;
+}
+#conteiner4{
+  width: 1366px;
+  height: 3000px;
+  background-color: green;
+
+}
+.img4{
+  float: left;
+  margin-top: 2000px;
+  margin-left: 120px;
+  margin-bottom: 500px;
+}
+.img5{
+  float: left;
+  margin-top: 2000px;
+  margin-left: 100px;
+  margin-bottom: 500px;
+}
+.img6{
+  float: left;
+  margin-top: 2000px;
+  margin-left: 100px;
+  margin-bottom: 500px;
+}
+.img7{
+  float: left;
+  margin-top: -1100px;
+  margin-left: 120px;
+  margin-bottom: 200px;
+}
+.img8{
+  float: right;
+  margin-top: -1100px;
+  margin-right: 545px;
+  margin-bottom: 200px;
+}
+.img9{
+  float: right;
+  margin-top: -1100px;
+  margin-right: 150px;
+  margin-bottom: 200px;
+}
+#conteiner5{
+  width: 1366px;
+  height: 70px;
+  background-color: pink;
+}
